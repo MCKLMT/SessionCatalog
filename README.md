@@ -1,4 +1,4 @@
-# Agenda and Session Catalog
+# Session Catalog
 
 The repositories managed by the GSI Azure COE provide materials to deliver sessions on various Microsoft Azure solution architecture topics, such as Infrastructure-as-a-Service capabilities, services supporting Internet-of-Things scenarios, Big Data, and many more. At a minimum, session content contains a PowerPoint presentation with full speaker notes. In addition, it may include demo scripts and demo code, with a video in which the demo is shown. The session catalog provides insight into the sessions available and the topics covered.
 
