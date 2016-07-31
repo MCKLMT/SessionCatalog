@@ -17,7 +17,6 @@ Title|Runtime
 [Designing and managing Azure subscriptions](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)|30 minutes
 [DevOps](https://github.com/GSIAzureCOE/DevOps)|60 minutes
 [Identity and Access Management](https://github.com/GSIAzureCOE/Identity-and-Access-Management)|90 minutes
-[Introduction](https://github.com/GSIAzureCOE/Welcome)|15 minutes
 [Managing Your Azure Enviroment](https://github.com/GSIAzureCOE/Managing-Your-Azure-Enviroment)|60 minutes
 [Media Services on Azure](https://github.com/GSIAzureCOE/Media-Services)|60 minutes
 [Monitoring and Diagnostics](https://github.com/GSIAzureCOE/Monitoring-and-Diagnostics)|60 minutes
@@ -26,10 +25,6 @@ Title|Runtime
 [Patterns and Anti-Patterns](https://github.com/GSIAzureCOE/Cloud-Patterns-and-Anti-Patterns)|60 minutes
 [Scalable Compute in Azure](https://github.com/GSIAzureCOE/Compute)|90 minutes
 [Understanding Storage and Solution Performance](https://github.com/GSIAzureCOE/Storage)|60 minutes
-[Wrap up](https://github.com/GSIAzureCOE/Wrap-Up)|15 minutes
-
-## Case Studies
-TODO
 
 ## Hands-on Labs
 Title|Runtime
