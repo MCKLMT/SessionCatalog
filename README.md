@@ -14,7 +14,7 @@ Title|Runtime
 [Architecting Virtual Machine Solutions](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions)|60 minutes
 [Building Secure Solutions](https://github.com/GSIAzureCOE/Secure-Solutions)|60 minutes
 [Cost Modeling](https://github.com/GSIAzureCOE/Cost-Modeling)|60 minutes
-[Designing and managing Azure subscriptions](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)|30 minutes
+[Designing and Managing Azure Subscriptions](https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions)|30 minutes
 [DevOps](https://github.com/GSIAzureCOE/DevOps)|60 minutes
 [Identity and Access Management](https://github.com/GSIAzureCOE/Identity-and-Access-Management)|90 minutes
 [Managing Your Azure Enviroment](https://github.com/GSIAzureCOE/Managing-Your-Azure-Enviroment)|60 minutes
