@@ -30,6 +30,7 @@ Title|Runtime
 Title|Runtime
 -------------|-------
 [Azure Hackathon](https://github.com/GSIAzureCOE/Hackathon)|4:30 hours
+[DevOps Deep Dive](https://github.com/GSIAzureCOE/DevOps-Deep-Dive)| 16 hours
 
 ## Code of Conduct
 
