@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 much of this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Session Catalog
 
 The repositories managed by Azure CAT GSI provide materials to deliver sessions on various Microsoft Azure solution architecture topics, such as Infrastructure-as-a-Service capabilities, services supporting Internet-of-Things scenarios, Big Data, and many more. At a minimum, session content contains a PowerPoint presentation with full speaker notes. In addition, it may include demo scripts and demo code, with a video in which the demo is shown. The session catalog provides insight into the sessions available and the topics covered. A topic can contain multiple presentations.
